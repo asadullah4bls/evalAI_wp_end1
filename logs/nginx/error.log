@@ -1,0 +1,1 @@
+2026/05/21 18:34:50 [error] 11320#9044: *8782 WSARecv() failed (10054: An existing connection was forcibly closed by the remote host) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", upstream: "fastcgi://127.0.0.1:10002", host: "wordp-evalai.local", referrer: "http://wordp-evalai.local/take-quiz/?quiz_id=13"

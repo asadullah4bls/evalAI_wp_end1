@@ -1,0 +1,1145 @@
+[09-Feb-2026 14:40:15 UTC] PDF upload triggered
+[09-Feb-2026 14:40:15 UTC] Processing file: classification.pdf
+[09-Feb-2026 14:40:15 UTC] Flask response: {
+  "error": "No files part in request"
+}
+
+[09-Feb-2026 14:40:15 UTC] Processing file: Transformer_attention_3.pdf
+[09-Feb-2026 14:40:15 UTC] Flask response: {
+  "error": "No files part in request"
+}
+
+[09-Feb-2026 14:57:04 UTC] PDF upload triggered
+[09-Feb-2026 14:57:04 UTC] Processing file: AI_in_Healthcare_Paper.pdf
+[09-Feb-2026 14:57:31 UTC] Flask response: {
+  "mcq_count": 7,
+  "quiz": [
+    {
+      "answer": "Clinical history provides valuable information about a patient's medical history, symptoms, and treatment responses, guiding treatment decisions.",
+      "explanation": "Healthcare professionals use clinical history to develop effective treatment plans that take into account a patient's unique needs.",
+      "id": "q_0",
+      "question": "How does clinical history inform treatment planning for patients with neurological conditions?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "B",
+      "explanation": "Artificial intelligence models in healthcare often handle large volumes of unstructured data, such as genetic profiles and medical images, which can be complex and challenging to analyze.",
+      "id": "q_1",
+      "options": {
+        "A": "Small volumes of structured data",
+        "B": "Large volumes of unstructured data",
+        "C": "Real-time data with minimal latency",
+        "D": "Manually curated data with high accuracy"
+      },
+      "question": "What is a key characteristic of the data that artificial intelligence models in healthcare often deal with?",
+      "source_cluster": "Theme_3",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Inadequate treatment planning can lead to increased healthcare costs due to prolonged hospital stays, additional procedures, and other complications.",
+      "id": "q_2",
+      "options": {
+        "A": "Reduced healthcare costs",
+        "B": "Improved patient outcomes",
+        "C": "Increased healthcare costs",
+        "D": "Decreased patient monitoring"
+      },
+      "question": "Which of the following is a potential consequence of inadequate treatment planning?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Improved accuracy and efficiency.",
+      "explanation": "Artificial intelligence can process vast amounts of data quickly and accurately, reducing the risk of human error and increasing the speed of diagnosis and treatment.",
+      "id": "q_3",
+      "question": "What is the primary advantage of using artificial intelligence in healthcare, particularly when dealing with large volumes of data?",
+      "source_cluster": "Theme_3",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Lifestyle factors such as diet and exercise can influence the severity of cardiovascular disorders and treatment effectiveness.",
+      "explanation": "Healthcare professionals consider lifestyle factors when developing treatment plans to ensure the best possible outcomes for patients.",
+      "id": "q_4",
+      "question": "How do lifestyle factors impact treatment planning for patients with cardiovascular disorders?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Expert radiologists analyze medical images to diagnose and monitor various conditions, including neurological conditions.",
+      "explanation": "Their expertise is crucial in accurately interpreting medical images to inform treatment decisions.",
+      "id": "q_5",
+      "question": "What is the role of expert radiologists in interpreting medical images?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Human capability is limited by the time and resources required to test multiple approaches, whereas AI can rapidly explore and evaluate different options.",
+      "explanation": "Traditional trial-and-error approaches can be time-consuming and resource-intensive, whereas artificial intelligence can rapidly explore and evaluate different options, reducing the time and resources required to find effective solutions.",
+      "id": "q_6",
+      "question": "What is a key limitation of traditional trial-and-error approaches in healthcare, and how can artificial intelligence help address this limitation?",
+      "source_cluster": "Theme_3",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Advanced diagnostic techniques aim to provide accurate and timely diagnoses, enabling healthcare professionals to initiate effective treatment plans.",
+      "id": "q_7",
+      "options": {
+        "A": "To delay treatment and observe the progression of the disease",
+        "B": "To identify the root cause of a complex medical condition",
+        "C": "To provide a definitive diagnosis and initiate timely treatment",
+        "D": "To reduce the number of medical tests required for diagnosis"
+      },
+      "question": "What is the primary goal of using advanced diagnostic techniques in healthcare?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Improved patient outcomes.",
+      "explanation": "Medical data enables healthcare professionals to make informed decisions, leading to better patient care and outcomes.",
+      "id": "q_8",
+      "question": "What is a significant advantage of using medical data in modern healthcare systems?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Machine learning algorithms in healthcare are often developed and refined through an iterative process of trial and error, where the algorithm is tested, evaluated, and refined based on the results, until optimal performance is achieved.",
+      "id": "q_9",
+      "options": {
+        "A": "Direct application of human expertise",
+        "B": "Trial and error with minimal feedback",
+        "C": "Iterative refinement through trial and error approaches",
+        "D": "Random selection of algorithm parameters"
+      },
+      "question": "Which approach is commonly used to develop and refine machine learning algorithms in healthcare?",
+      "source_cluster": "Theme_3",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Powered robotic surgery is a significant advancement in healthcare systems, allowing for more precise and minimally invasive procedures.",
+      "id": "q_10",
+      "options": {
+        "A": "Manual treatment planning",
+        "B": "Limited use of medical images",
+        "C": "Powered robotic surgery",
+        "D": "Inefficient patient monitoring"
+      },
+      "question": "Which of the following is a significant advancement in healthcare systems?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Powered robotic surgery offers precise and minimally invasive procedures, reducing recovery time and improving patient outcomes.",
+      "explanation": "This technology enables surgeons to perform complex procedures with greater accuracy and control.",
+      "id": "q_11",
+      "question": "What is the benefit of using powered robotic surgery in modern healthcare?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Personalized medicine involves considering multiple lifestyle factors, along with clinical history and medical images, to provide tailored treatment plans.",
+      "id": "q_12",
+      "options": {
+        "A": "Ignoring lifestyle factors",
+        "B": "Focusing solely on clinical history",
+        "C": "Considering multiple lifestyle factors",
+        "D": "Overlooking medical images"
+      },
+      "question": "What is a crucial aspect of personalized medicine in healthcare?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Scans help identify abnormalities or irregularities within the body, allowing for early detection and further investigation.",
+      "explanation": "Scans, such as imaging tests, play a crucial role in detecting anomalies that may indicate the presence of a disease or condition, facilitating early intervention and treatment.",
+      "id": "q_13",
+      "question": "How do scans contribute to the process of identifying anomalies in healthcare diagnostics?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "High healthcare costs can limit access to treatment for patients with cardiovascular disorders, particularly those with limited financial resources.",
+      "explanation": "The financial burden of healthcare can hinder patients' ability to receive necessary treatment.",
+      "id": "q_14",
+      "question": "What is the impact of healthcare costs on access to treatment for patients with cardiovascular disorders?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Advanced medical data analysis enables healthcare professionals to make informed decisions, leading to improved patient outcomes.",
+      "id": "q_15",
+      "options": {
+        "A": "Limited access to medical data",
+        "B": "Inadequate treatment planning",
+        "C": "Advanced medical data analysis",
+        "D": "Lack of expert radiologists"
+      },
+      "question": "What is a key factor in improving patient outcomes in modern healthcare?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Early detection and accurate diagnosis of diseases.",
+      "explanation": "Advancing diagnostics aims to improve the speed and accuracy of disease diagnosis, enabling healthcare professionals to provide timely and effective treatment.",
+      "id": "q_16",
+      "question": "What is the primary goal of advancing diagnostics in healthcare?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Personalized medicine tailors treatment to individual patients' needs, increasing the likelihood of successful treatment outcomes.",
+      "explanation": "By considering genetic and lifestyle factors, personalized medicine enables healthcare professionals to develop targeted treatment plans.",
+      "id": "q_17",
+      "question": "How does personalized medicine contribute to successful treatment of patients with neurological conditions?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Patient monitoring systems enable healthcare professionals to track patients' vital signs and respond promptly to changes, ensuring timely interventions and better outcomes.",
+      "explanation": "These systems facilitate real-time monitoring and enable healthcare professionals to make informed decisions.",
+      "id": "q_18",
+      "question": "How do patient monitoring systems contribute to improved patient outcomes in modern healthcare?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "By analyzing genetic profiles and identifying patterns that inform treatment decisions.",
+      "explanation": "Machine learning algorithms can analyze large datasets, including genetic profiles, to identify patterns and correlations that can inform treatment decisions and improve patient outcomes.",
+      "id": "q_19",
+      "question": "How do machine learning algorithms contribute to the development of personalized medicine in healthcare?",
+      "source_cluster": "Theme_3",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    }
+  ],
+  "saq_count": 13,
+  "total_questions": 20
+}
+
+[09-Feb-2026 14:57:31 UTC] Processing file: Urban_Traffic_Pattern_Clustering_AsadKhan.pdf
+[09-Feb-2026 14:57:40 UTC] Flask response: {
+  "mcq_count": 5,
+  "quiz": [
+    {
+      "answer": "Through experimental evaluation.",
+      "explanation": "The proposed methodology is tested and validated through experimental evaluation, which provides a rigorous assessment of its effectiveness and accuracy.",
+      "id": "q_0",
+      "question": "How is the proposed methodology evaluated in Theme_1?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "To monitor traffic conditions in real-time.",
+      "explanation": "Road sensors are used to monitor traffic conditions in real-time, providing valuable data for traffic management and optimization.",
+      "id": "q_1",
+      "question": "What is the primary purpose of road sensors in urban traffic management?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "A",
+      "explanation": "Cluster deviation scores are used to evaluate the performance of the proposed methodology, providing a quantitative measure of the accuracy and effectiveness of the traffic pattern clustering algorithm.",
+      "id": "q_2",
+      "options": {
+        "A": "To evaluate the performance of the proposed methodology",
+        "B": "To identify the most energy-efficient traffic management strategies",
+        "C": "To determine the environmental burden of traffic congestion",
+        "D": "To assign predefined labels to traffic patterns"
+      },
+      "question": "What is the purpose of calculating cluster deviation scores in urban traffic pattern clustering?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "MCQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Sudden flow surges refer to unexpected and sudden increases in traffic flow, often caused by unexpected events or changes in traffic patterns.",
+      "id": "q_3",
+      "options": {
+        "A": "Peak hour congestion zones",
+        "B": "Density-based congestion clusters",
+        "C": "Sudden flow surges",
+        "D": "Long-term traffic congestion due to road construction"
+      },
+      "question": "What type of traffic congestion is often characterized by sudden and unexpected increases in traffic flow?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "MCQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Unsupervised learning algorithms are used to identify patterns and anomalies in traffic data without prior knowledge, allowing for a more objective and data-driven approach to traffic pattern clustering.",
+      "id": "q_4",
+      "options": {
+        "A": "To assign predefined labels to traffic patterns",
+        "B": "To reduce the environmental burden of traffic congestion",
+        "C": "To identify patterns and anomalies in traffic data without prior knowledge",
+        "D": "To increase energy inefficiency in traffic management systems"
+      },
+      "question": "What is the primary goal of using unsupervised learning algorithms in urban traffic pattern clustering?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Sudden flow surges.",
+      "explanation": "Peak hour congestion zones are often characterized by sudden flow surges, where a large number of vehicles enter the area at the same time, causing congestion.",
+      "id": "q_5",
+      "question": "What is a common characteristic of peak hour congestion zones?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Through anomaly detection and cluster deviation scores.",
+      "explanation": "The proposed methodology uses anomaly detection to identify unusual patterns in traffic data, and cluster deviation scores to quantify the extent of these anomalies.",
+      "id": "q_6",
+      "question": "How does the proposed methodology account for anomalies in traffic data?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Traditional traffic modeling techniques often rely on outdated data and do not account for modern mobility patterns, such as the use of ride-sharing services or changes in commuting habits.",
+      "id": "q_7",
+      "options": {
+        "A": "They are highly accurate and can predict traffic patterns with 100% certainty",
+        "B": "They are highly adaptable and can adjust to changing traffic patterns in real-time",
+        "C": "They rely on outdated data and do not account for modern mobility patterns",
+        "D": "They are highly cost-effective and do not require significant infrastructure investments"
+      },
+      "question": "Which of the following is a limitation of traditional traffic modeling techniques?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "MCQ"
+    },
+    {
+      "answer": "The proposed methodology employs unsupervised learning algorithms for machine learning based clustering.",
+      "explanation": "Unsupervised learning algorithms enable the proposed methodology to automatically identify patterns in traffic data without requiring predefined labels.",
+      "id": "q_8",
+      "question": "How does the proposed methodology in Theme_1 utilize machine learning?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Spatiotemporal traffic datasets.",
+      "explanation": "Spatiotemporal traffic datasets, which capture the location and time of traffic events, are often used to analyze traffic patterns in urban areas and identify areas of congestion.",
+      "id": "q_9",
+      "question": "What type of data is often used to analyze traffic patterns in urban areas?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Cluster norms provide a baseline for evaluating the quality of clusters and identifying potential issues.",
+      "explanation": "Cluster norms serve as a reference point for assessing the validity and consistency of clusters, helping to identify potential problems with the clustering process.",
+      "id": "q_10",
+      "question": "What is the significance of cluster norms in the proposed methodology?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Unsupervised learning.",
+      "explanation": "Unsupervised learning is used to automatically identify patterns in traffic data without requiring predefined labels or manual intervention.",
+      "id": "q_11",
+      "question": "What type of learning is used in the proposed methodology for traffic pattern analysis?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Energy inefficiency and environmental burden.",
+      "explanation": "Traditional traffic pattern analysis methods often rely on manual labeling and can be time-consuming, leading to energy inefficiency and environmental burden.",
+      "id": "q_12",
+      "question": "What is a common issue associated with traditional traffic pattern analysis methods?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "By providing real-time data on traffic conditions and enabling smart traffic management systems.",
+      "explanation": "City IoT networks, which integrate various sensors and data sources, provide real-time data on traffic conditions and enable smart traffic management systems that can optimize traffic flow and reduce congestion.",
+      "id": "q_13",
+      "question": "How do city IoT networks contribute to urban traffic management?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "To reduce noise and improve the accuracy of traffic pattern analysis.",
+      "explanation": "Temporal window segmentation helps to filter out irrelevant data points and reduce noise, allowing for more accurate analysis of traffic patterns.",
+      "id": "q_14",
+      "question": "What is the purpose of temporal window segmentation in the proposed methodology?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "They often struggle to accurately capture the complexities of modern mobility patterns.",
+      "explanation": "Traditional traffic modeling techniques were designed for a time when mobility patterns were simpler, and they may not be equipped to handle the complexities of modern mobility patterns, such as ride-sharing and bike-sharing services.",
+      "id": "q_15",
+      "question": "How do traditional traffic modeling techniques typically handle modern mobility patterns?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "B",
+      "explanation": "Temporal window segmentation is a key aspect of the proposed methodology, as it helps to reduce noise in traffic data and improve the accuracy of traffic pattern clustering.",
+      "id": "q_16",
+      "options": {
+        "A": "The use of machine learning algorithms to predict traffic congestion",
+        "B": "The application of temporal window segmentation to reduce noise in traffic data",
+        "C": "The implementation of a multi-level pattern interpretation framework",
+        "D": "The use of predefined labels to classify traffic patterns"
+      },
+      "question": "Which of the following is a key aspect of the proposed methodology for urban traffic pattern clustering?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Increased traffic congestion.",
+      "explanation": "Rapid population growth in metropolitan areas often leads to a surge in the number of vehicles on the road, resulting in increased traffic congestion.",
+      "id": "q_17",
+      "question": "What is a common consequence of rapid population growth in metropolitan areas?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "The need to account for the interactions between traffic density, average speed, and sudden flow surges.",
+      "explanation": "Accurately modeling traffic congestion in urban areas requires accounting for the complex interactions between traffic density, average speed, and sudden flow surges, which can have a significant impact on traffic flow.",
+      "id": "q_18",
+      "question": "What is a key challenge in accurately modeling traffic congestion in urban areas?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    }
+  ],
+  "saq_count": 14,
+  "total_questions": 19
+}
+
+[10-Feb-2026 09:54:56 UTC] PDF upload triggered
+[10-Feb-2026 09:54:56 UTC] Preparing file: classification.pdf
+[10-Feb-2026 09:54:56 UTC] Preparing file: Transformer_attention_3.pdf
+[10-Feb-2026 09:54:56 UTC] Flask response: {
+  "error": "No files part in request"
+}
+
+[10-Feb-2026 09:56:49 UTC] PDF upload triggered
+[10-Feb-2026 09:56:49 UTC] Preparing file: AI_in_Healthcare_Paper.pdf
+[10-Feb-2026 09:56:49 UTC] Preparing file: classification.pdf
+[10-Feb-2026 09:56:49 UTC] Flask response: <!doctype html>
+<html lang=en>
+  <head>
+    <title>AttributeError: &#39;Request&#39; object has no attribute &#39;body&#39;
+ // Werkzeug Debugger</title>
+    <link rel="stylesheet" href="?__debugger__=yes&amp;cmd=resource&amp;f=style.css">
+    <link rel="shortcut icon"
+        href="?__debugger__=yes&amp;cmd=resource&amp;f=console.png">
+    <script src="?__debugger__=yes&amp;cmd=resource&amp;f=debugger.js"></script>
+    <script>
+      var CONSOLE_MODE = false,
+          EVALEX = true,
+          EVALEX_TRUSTED = false,
+          SECRET = "l5iXAWFL2CpphdexH8PY";
+    </script>
+  </head>
+  <body style="background-color: #fff">
+    <div class="debugger">
+<h1>AttributeError</h1>
+<div class="detail">
+  <p class="errormsg">AttributeError: &#39;Request&#39; object has no attribute &#39;body&#39;
+</p>
+</div>
+<h2 class="traceback">Traceback <em>(most recent call last)</em></h2>
+<div class="traceback">
+  <h3></h3>
+  <ul><li><div class="frame" id="frame-2322362932320">
+  <h4>File <cite class="filename">"D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1536</em>,
+      in <code class="function">__call__</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">    </span>) -&gt; cabc.Iterable[bytes]:</pre>
+<pre class="line before"><span class="ws">        </span>&#34;&#34;&#34;The WSGI server calls the Flask application object as the</pre>
+<pre class="line before"><span class="ws">        </span>WSGI application. This calls :meth:`wsgi_app`, which can be</pre>
+<pre class="line before"><span class="ws">        </span>wrapped to apply middleware.</pre>
+<pre class="line before"><span class="ws">        </span>&#34;&#34;&#34;</pre>
+<pre class="line current"><span class="ws">        </span>return self.wsgi_app(environ, start_response)
+<span class="ws">        </span>       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2322362932464">
+  <h4>File <cite class="filename">"D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1514</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line before"><span class="ws">                </span>response = self.full_dispatch_request()</pre>
+<pre class="line before"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line before"><span class="ws">                </span>error = e</pre>
+<pre class="line current"><span class="ws">                </span>response = self.handle_exception(e)
+<span class="ws">                </span>           ^^^^^^^^^^^^^^^^^^^^^^^^</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre>
+<pre class="line after"><span class="ws">                </span>raise</pre>
+<pre class="line after"><span class="ws">            </span>return response(environ, start_response)</pre>
+<pre class="line after"><span class="ws">        </span>finally:</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2322362932752">
+  <h4>File <cite class="filename">"D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask_cors\extension.py"</cite>,
+      line <em class="line">176</em>,
+      in <code class="function">wrapped_function</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span># These error handlers will still respect the behavior of the route</pre>
+<pre class="line before"><span class="ws">        </span>if options.get(&#34;intercept_exceptions&#34;, True):</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">            </span>def _after_request_decorator(f):</pre>
+<pre class="line before"><span class="ws">                </span>def wrapped_function(*args, **kwargs):</pre>
+<pre class="line current"><span class="ws">                    </span>return cors_after_request(app.make_response(f(*args, **kwargs)))
+<span class="ws">                    </span>                                            ^^^^^^^^^^^^^^^^^^</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">                </span>return wrapped_function</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">            </span>if hasattr(app, &#34;handle_exception&#34;):</pre>
+<pre class="line after"><span class="ws">                </span>app.handle_exception = _after_request_decorator(app.handle_exception)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2322362933760">
+  <h4>File <cite class="filename">"D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">1511</em>,
+      in <code class="function">wsgi_app</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span>ctx = self.request_context(environ)</pre>
+<pre class="line before"><span class="ws">        </span>error: BaseException | None = None</pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>try:</pre>
+<pre class="line before"><span class="ws">                </span>ctx.push()</pre>
+<pre class="line current"><span class="ws">                </span>response = self.full_dispatch_request()
+<span class="ws">                </span>           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^</pre>
+<pre class="line after"><span class="ws">            </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">                </span>error = e</pre>
+<pre class="line after"><span class="ws">                </span>response = self.handle_exception(e)</pre>
+<pre class="line after"><span class="ws">            </span>except:  # noqa: B001</pre>
+<pre class="line after"><span class="ws">                </span>error = sys.exc_info()[1]</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2322362933904">
+  <h4>File <cite class="filename">"D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">919</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>request_started.send(self, _async_wrapper=self.ensure_sync)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line before"><span class="ws">                </span>rv = self.dispatch_request()</pre>
+<pre class="line before"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line current"><span class="ws">            </span>rv = self.handle_user_exception(e)
+<span class="ws">            </span>     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(</pre>
+<pre class="line after"><span class="ws">        </span>self,</pre>
+<pre class="line after"><span class="ws">        </span>rv: ft.ResponseReturnValue | HTTPException,</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2322362934048">
+  <h4>File <cite class="filename">"D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask_cors\extension.py"</cite>,
+      line <em class="line">176</em>,
+      in <code class="function">wrapped_function</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">        </span># These error handlers will still respect the behavior of the route</pre>
+<pre class="line before"><span class="ws">        </span>if options.get(&#34;intercept_exceptions&#34;, True):</pre>
+<pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">            </span>def _after_request_decorator(f):</pre>
+<pre class="line before"><span class="ws">                </span>def wrapped_function(*args, **kwargs):</pre>
+<pre class="line current"><span class="ws">                    </span>return cors_after_request(app.make_response(f(*args, **kwargs)))
+<span class="ws">                    </span>                                            ^^^^^^^^^^^^^^^^^^</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">                </span>return wrapped_function</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">            </span>if hasattr(app, &#34;handle_exception&#34;):</pre>
+<pre class="line after"><span class="ws">                </span>app.handle_exception = _after_request_decorator(app.handle_exception)</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2322362934192">
+  <h4>File <cite class="filename">"D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">917</em>,
+      in <code class="function">full_dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws"></span> </pre>
+<pre class="line before"><span class="ws">        </span>try:</pre>
+<pre class="line before"><span class="ws">            </span>request_started.send(self, _async_wrapper=self.ensure_sync)</pre>
+<pre class="line before"><span class="ws">            </span>rv = self.preprocess_request()</pre>
+<pre class="line before"><span class="ws">            </span>if rv is None:</pre>
+<pre class="line current"><span class="ws">                </span>rv = self.dispatch_request()
+<span class="ws">                </span>     ^^^^^^^^^^^^^^^^^^^^^^^</pre>
+<pre class="line after"><span class="ws">        </span>except Exception as e:</pre>
+<pre class="line after"><span class="ws">            </span>rv = self.handle_user_exception(e)</pre>
+<pre class="line after"><span class="ws">        </span>return self.finalize_request(rv)</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def finalize_request(</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2322362934336">
+  <h4>File <cite class="filename">"D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py"</cite>,
+      line <em class="line">902</em>,
+      in <code class="function">dispatch_request</code></h4>
+  <div class="source library"><pre class="line before"><span class="ws">            </span>and req.method == &#34;OPTIONS&#34;</pre>
+<pre class="line before"><span class="ws">        </span>):</pre>
+<pre class="line before"><span class="ws">            </span>return self.make_default_options_response()</pre>
+<pre class="line before"><span class="ws">        </span># otherwise dispatch to the handler for that endpoint</pre>
+<pre class="line before"><span class="ws">        </span>view_args: dict[str, t.Any] = req.view_args  # type: ignore[assignment]</pre>
+<pre class="line current"><span class="ws">        </span>return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+<span class="ws">        </span>       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>def full_dispatch_request(self) -&gt; Response:</pre>
+<pre class="line after"><span class="ws">        </span>&#34;&#34;&#34;Dispatches the request and on top of that performs request</pre>
+<pre class="line after"><span class="ws">        </span>pre and postprocessing as well as HTTP exception catching and</pre>
+<pre class="line after"><span class="ws">        </span>error handling.</pre></div>
+</div>
+
+<li><div class="frame" id="frame-2322362934480">
+  <h4>File <cite class="filename">"D:\BLS_Main\Word-P-EvalAI\Backend\flaask.py"</cite>,
+      line <em class="line">119</em>,
+      in <code class="function">upload_pdfs</code></h4>
+  <div class="source "><pre class="line before"><span class="ws"></span># 1️⃣ UPLOAD PDFs &amp; GENERATE QUIZ</pre>
+<pre class="line before"><span class="ws"></span># ======================================================</pre>
+<pre class="line before"><span class="ws"></span>@app.route(&#34;/upload_pdfs/&#34;, methods=[&#34;POST&#34;])</pre>
+<pre class="line before"><span class="ws"></span>def upload_pdfs():</pre>
+<pre class="line before"><span class="ws">    </span>if &#34;file&#34; not in request.files:</pre>
+<pre class="line current"><span class="ws">        </span>print(&#34;request.body  &#34;,request.body)
+<span class="ws">        </span>                       ^^^^^^^^^^^^</pre>
+<pre class="line after"><span class="ws">        </span>return jsonify({&#34;error&#34;: &#34;No files part in request&#34;}), 400</pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws"></span> </pre>
+<pre class="line after"><span class="ws">    </span>files = request.files.getlist(&#34;file&#34;)</pre></div>
+</div>
+</ul>
+  <blockquote>AttributeError: &#39;Request&#39; object has no attribute &#39;body&#39;
+</blockquote>
+</div>
+
+<div class="plain">
+    <p>
+      This is the Copy/Paste friendly version of the traceback.
+    </p>
+    <textarea cols="50" rows="10" name="code" readonly>Traceback (most recent call last):
+  File &#34;D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py&#34;, line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File &#34;D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py&#34;, line 1514, in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File &#34;D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask_cors\extension.py&#34;, line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File &#34;D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py&#34;, line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File &#34;D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py&#34;, line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File &#34;D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask_cors\extension.py&#34;, line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File &#34;D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py&#34;, line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File &#34;D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py&#34;, line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File &#34;D:\BLS_Main\Word-P-EvalAI\Backend\flaask.py&#34;, line 119, in upload_pdfs
+    print(&#34;request.body  &#34;,request.body)
+                           ^^^^^^^^^^^^^
+AttributeError: &#39;Request&#39; object has no attribute &#39;body&#39;
+</textarea>
+</div>
+<div class="explanation">
+  The debugger caught an exception in your WSGI application.  You can now
+  look at the traceback which led to the error.  <span class="nojavascript">
+  If you enable JavaScript you can also use additional features such as code
+  execution (if the evalex feature is enabled), automatic pasting of the
+  exceptions and much more.</span>
+</div>
+      <div class="footer">
+        Brought to you by <strong class="arthur">DON'T PANIC</strong>, your
+        friendly Werkzeug powered traceback interpreter.
+      </div>
+    </div>
+
+    <div class="pin-prompt">
+      <div class="inner">
+        <h3>Console Locked</h3>
+        <p>
+          The console is locked and needs to be unlocked by entering the PIN.
+          You can find the PIN printed out on the standard output of your
+          shell that runs the server.
+        <form>
+          <p>PIN:
+            <input type=text name=pin size=14>
+            <input type=submit name=btn value="Confirm Pin">
+        </form>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!--
+
+Traceback (most recent call last):
+  File "D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py", line 1536, in __call__
+    return self.wsgi_app(environ, start_response)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py", line 1514, in wsgi_app
+    response = self.handle_exception(e)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^^^
+  File "D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\BLS_Main\iae_quiz_g_vnv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\BLS_Main\Word-P-EvalAI\Backend\flaask.py", line 119, in upload_pdfs
+    print("request.body  ",request.body)
+                           ^^^^^^^^^^^^^
+AttributeError: 'Request' object has no attribute 'body'
+
+
+-->
+
+[10-Feb-2026 09:58:24 UTC] PDF upload triggered
+[10-Feb-2026 09:58:24 UTC] Preparing file: classification.pdf
+[10-Feb-2026 09:58:24 UTC] Preparing file: Transformer_attention_3.pdf
+[10-Feb-2026 09:58:24 UTC] Flask response: {
+  "error": "No files part in request"
+}
+
+[10-Feb-2026 10:02:18 UTC] PDF upload triggered
+[10-Feb-2026 10:02:18 UTC] Preparing file: AI_in_Healthcare_Paper.pdf
+[10-Feb-2026 10:02:18 UTC] Preparing file: Transformer_attention_3.pdf
+[10-Feb-2026 10:02:18 UTC] Preparing file: Urban_Traffic_Pattern_Clustering_AsadKhan.pdf
+[10-Feb-2026 10:02:18 UTC] PHP Fatal error:  Uncaught Error: Object of class CURLFile could not be converted to string in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\ai-pdf-upload\ai-pdf-upload.php:33
+Stack trace:
+#0 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\ai-pdf-upload\ai-pdf-upload.php(33): curl_setopt_array(Object(CurlHandle), Array)
+#1 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\ai-pdf-upload\ai-pdf-upload.php(89): ai_send_multiple_files_to_flask(Array)
+#2 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-includes\class-wp-hook.php(341): ai_handle_pdf_upload('')
+#3 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-includes\class-wp-hook.php(365): WP_Hook->apply_filters(NULL, Array)
+#4 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-includes\plugin.php(522): WP_Hook->do_action(Array)
+#5 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-settings.php(742): do_action('init')
+#6 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-config.php(103): require_once('C:\\Users\\Admin\\...')
+#7 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-load.php(50): require_once('C:\\Users\\Admin\\...')
+#8 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-blog-header.php(13): require_once('C:\\Users\\Admin\\...')
+#9 C:\Users\Admin\Local Sites\wordp-evalai\app\public\index.php(17): require('C:\\Users\\Admin\\...')
+#10 {main}
+  thrown in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\ai-pdf-upload\ai-pdf-upload.php on line 33
+[10-Feb-2026 10:09:09 UTC] Flask response: {
+  "mcq_count": 5,
+  "quiz": [
+    {
+      "correct_answer": "B",
+      "explanation": "Medical data enables healthcare systems to improve treatment planning and patient monitoring, leading to better patient outcomes.",
+      "id": "q_0",
+      "options": {
+        "A": "Reduced healthcare costs without improving patient outcomes",
+        "B": "Improved treatment planning and patient monitoring",
+        "C": "Increased reliance on expert radiologists for diagnosis",
+        "D": "Decreased use of medical images in diagnosis"
+      },
+      "question": "What is a significant benefit of using medical data in modern healthcare systems?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Scans identifying anomalies enable healthcare professionals to detect diseases at an early stage by visualizing abnormalities in the body. This approach allows for prompt diagnosis and treatment, reducing the risk of disease progression and improving patient outcomes.",
+      "explanation": "Scans identifying anomalies, such as MRI or CT scans, can detect abnormalities in the body, such as tumors or lesions. This enables healthcare professionals to diagnose diseases at an early stage, allowing for timely intervention and treatment, which can significantly improve patient outcomes.",
+      "id": "q_1",
+      "question": "How do scans identifying anomalies contribute to early detection, and what are the benefits of this approach?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Predictive analytics, personalized medicine, and clinical decision support systems.",
+      "explanation": "These applications leverage AI's ability to analyze and process vast amounts of data, improving accuracy and efficiency in healthcare.",
+      "id": "q_2",
+      "question": "What are some key applications where artificial intelligence can effectively process large volumes of data that would be challenging for human capability?",
+      "source_cluster": "Theme_3",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "High healthcare costs can limit the adoption of powered robotic surgery, making it less accessible to patients who may benefit from this technology.",
+      "explanation": "The high cost of powered robotic surgery can create a barrier to access, making it difficult for patients to receive this potentially life-changing treatment.",
+      "id": "q_3",
+      "question": "What is the impact of healthcare costs on the adoption of powered robotic surgery in modern healthcare systems?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Lifestyle factors and clinical history are used to tailor treatment plans to individual patients, taking into account their unique characteristics and needs.",
+      "explanation": "By considering lifestyle factors and clinical history, healthcare providers can develop more effective and targeted treatment plans that address the specific needs of each patient.",
+      "id": "q_4",
+      "question": "How do lifestyle factors and clinical history influence treatment planning in personalized medicine?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Advances in medical imaging and treatment planning have improved patient outcomes for cardiovascular disorders.",
+      "explanation": "The integration of medical images and expert radiologists' analysis has enabled more accurate diagnosis and effective treatment planning, leading to improved patient outcomes.",
+      "id": "q_5",
+      "question": "What significant advancements in modern healthcare have improved patient outcomes for cardiovascular disorders?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "To determine the category or class of a data point based on its characteristics.",
+      "explanation": "A type algorithm is used to classify data into predefined categories, making it a crucial component in classification tasks.",
+      "id": "q_6",
+      "question": "What is the primary purpose of a type algorithm in classification?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "classification",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Classification model",
+      "explanation": "A classification model is a type of supervised machine learning model that predicts a discrete categorical value. It is commonly used in applications such as image classification, sentiment analysis, and spam detection.",
+      "id": "q_7",
+      "question": "What type of model is typically used when the goal is to predict a discrete categorical value, such as classifying an image as either a cat or a dog?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "classification",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "The proposed methodology utilizes unsupervised learning algorithms, which enables the detection of anomalies and reduction of noise in the data, ultimately leading to a more accurate clustering of urban traffic patterns.",
+      "id": "q_8",
+      "options": {
+        "A": "Increased energy consumption",
+        "B": "Improved accuracy with predefined labels",
+        "C": "Enhanced ability to detect anomalies and reduce noise",
+        "D": "Reduced computational power requirements"
+      },
+      "question": "What is a key benefit of using unsupervised learning algorithms in the proposed methodology for urban traffic pattern clustering?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "MCQ"
+    },
+    {
+      "answer": "Sudden flow surges and peak hour congestion zones can be difficult to predict and model accurately.",
+      "explanation": "Sudden flow surges and peak hour congestion zones can be unpredictable and challenging to model accurately, as they often result from unexpected events or changes in traffic patterns.",
+      "id": "q_9",
+      "question": "What is a key challenge in accurately modeling traffic congestion in metropolitan areas?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "The choice of response variable affects the algorithm's ability to accurately predict the desired outcome, as it influences the type of relationships the algorithm is trying to model.",
+      "explanation": "The response variable determines the type of classification problem and the algorithm's performance, making it a critical consideration in algorithm development.",
+      "id": "q_10",
+      "question": "How does the choice of response variable impact the development of an algorithm in classification?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "classification",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Increased traffic congestion and long commute times.",
+      "explanation": "Rapid population growth in metropolitan areas often leads to an increase in the number of vehicles on the road, resulting in traffic congestion and longer commute times.",
+      "id": "q_11",
+      "question": "What are some common consequences of rapid population growth in metropolitan areas?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Machine learning algorithms use trial and error approaches to identify patterns in genetic data, enabling the development of predictive models for disease diagnosis and treatment.",
+      "explanation": "This process involves training models on large datasets, allowing them to learn and improve over time, and ultimately leading to more accurate genetic profile identification.",
+      "id": "q_12",
+      "question": "How do machine learning algorithms, such as those used in AI, help in identifying genetic profiles, and what approach do they typically follow?",
+      "source_cluster": "Theme_3",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Classification models predict categorical values, while regression models predict continuous values.",
+      "explanation": "Classification models are designed to predict a discrete categorical value, whereas regression models are designed to predict a continuous value. This fundamental difference in output types is a key distinction between the two types of models.",
+      "id": "q_13",
+      "question": "What is the primary difference between a classification model and a regression model in supervised machine learning?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "classification",
+      "type": "SAQ"
+    },
+    {
+      "answer": "By using temporal window segmentation, the methodology is able to filter out noise and anomalies, resulting in a more accurate representation of traffic patterns.",
+      "explanation": "Temporal window segmentation involves dividing the data into smaller time windows, allowing the model to focus on the most relevant data points and reduce the impact of noise and anomalies.",
+      "id": "q_14",
+      "question": "How does the proposed methodology address the issue of noise reduction in urban traffic data?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Modern mobility patterns take into account real-time data from road sensors and city IoT networks, whereas traditional traffic modeling techniques rely on historical data and static models.",
+      "explanation": "Modern mobility patterns utilize real-time data from various sources, such as road sensors and city IoT networks, to better understand and predict traffic flow. This approach differs from traditional traffic modeling techniques, which rely on historical data and static models.",
+      "id": "q_15",
+      "question": "How do modern mobility patterns differ from traditional traffic modeling techniques?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "Cluster deviation scores provide a measure of how well each cluster adheres to its norms, allowing for a more comprehensive evaluation of the clustering results.",
+      "explanation": "Cluster deviation scores indicate the extent to which individual data points deviate from the cluster norms, providing a quantitative measure of the cluster's quality and helping to identify potential anomalies or outliers.",
+      "id": "q_16",
+      "question": "What is the significance of cluster deviation scores in the experimental evaluation of the proposed methodology?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    },
+    {
+      "answer": "The primary goal is to improve early detection and treatment of diseases. This leads to better patient outcomes, increased survival rates, and improved quality of life.",
+      "explanation": "Advancing diagnostics enables healthcare professionals to identify diseases at an early stage, allowing for timely intervention and treatment. This can significantly improve patient outcomes, as it reduces the risk of complications and mortality.",
+      "id": "q_17",
+      "question": "What is the primary goal of advancing diagnostics in healthcare, and how does it impact patient outcomes?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "SAQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Rapid population growth in metropolitan areas often leads to increased traffic congestion and longer commute times due to inadequate infrastructure and strain on existing transportation systems.",
+      "id": "q_18",
+      "options": {
+        "A": "Decreased traffic congestion and shorter commute times",
+        "B": "Improved public transportation systems and reduced reliance on personal vehicles",
+        "C": "Increased traffic congestion and longer commute times due to inadequate infrastructure",
+        "D": "No significant impact on traffic patterns or urban planning"
+      },
+      "question": "What is a common outcome of rapid population growth in metropolitan areas?",
+      "source_cluster": "Theme_2",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "MCQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Human capability is a key challenge in developing effective models for healthcare applications, as it requires experts to interpret and validate the results generated by artificial intelligence and machine learning algorithms.",
+      "id": "q_19",
+      "options": {
+        "A": "Limited availability of high-quality data",
+        "B": "Insufficient computational power for complex calculations",
+        "C": "Human capability to interpret and validate results is not a challenge",
+        "D": "Easy integration with existing healthcare systems"
+      },
+      "question": "What is a key challenge in developing effective models for healthcare applications?",
+      "source_cluster": "Theme_3",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "correct_answer": "C",
+      "explanation": "Personalized medicine takes into account various factors, including lifestyle factors, clinical history, and genetic predisposition, to provide effective treatment for neurological conditions.",
+      "id": "q_20",
+      "options": {
+        "A": "Only lifestyle factors",
+        "B": "Only clinical history",
+        "C": "A combination of lifestyle factors, clinical history, and genetic predisposition",
+        "D": "None of the above factors"
+      },
+      "question": "Which of the following is a key factor that can influence the success of personalized medicine in treating neurological conditions?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "AI_in_Healthcare_Paper",
+      "type": "MCQ"
+    },
+    {
+      "answer": "To identify patterns in traffic data without prior knowledge or labels.",
+      "explanation": "The use of unsupervised learning algorithms allows the model to discover hidden patterns in the data without relying on predefined labels, enabling a more accurate representation of the underlying traffic patterns.",
+      "id": "q_21",
+      "question": "What is the primary goal of using unsupervised learning algorithms in the proposed methodology for urban traffic pattern clustering?",
+      "source_cluster": "Theme_1",
+      "source_pdf": "Urban_Traffic_Pattern_Clustering_AsadKhan",
+      "type": "SAQ"
+    }
+  ],
+  "saq_count": 17,
+  "total_questions": 22
+}
+
+[18-Feb-2026 08:20:34 UTC] PHP Warning:  Undefined property: stdClass::$bot_tot_score in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 273
+[18-Feb-2026 08:20:34 UTC] PHP Warning:  Undefined property: stdClass::$bot_obt_score in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 274
+[18-Feb-2026 08:20:34 UTC] PHP Warning:  Undefined property: stdClass::$bot_obt_perc in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 275
+[18-Feb-2026 08:20:34 UTC] PHP Warning:  Undefined property: stdClass::$bot_scre_passed in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 277
+[18-Feb-2026 08:21:03 UTC] PHP Warning:  Undefined property: stdClass::$bot_tot_score in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 273
+[18-Feb-2026 08:21:03 UTC] PHP Warning:  Undefined property: stdClass::$bot_obt_score in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 274
+[18-Feb-2026 08:21:03 UTC] PHP Warning:  Undefined property: stdClass::$bot_obt_perc in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 275
+[18-Feb-2026 08:21:03 UTC] PHP Warning:  Undefined property: stdClass::$bot_scre_passed in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 277
+[27-Feb-2026 09:47:35 UTC] Flask did not return success.
+[19-May-2026 06:59:38 UTC] PHP Warning:  Undefined array key "its_evaluation_explanation" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 148
+[19-May-2026 14:27:57 UTC] PHP Warning:  Undefined variable $main_tableWHERE in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 274
+[19-May-2026 14:27:57 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '= 9ORDER BY id DESC LIMIT 1' at line 1 for query SELECT *FROM  user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[19-May-2026 14:31:36 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[19-May-2026 14:36:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[19-May-2026 14:36:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[19-May-2026 14:48:46 UTC] WordPress database error Table 'local.wp_ai_subscriptions' doesn't exist for query SELECT * FROM wp_ai_subscriptions WHERE user_id = 9 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ai_handle_plan_subscription
+[19-May-2026 14:48:46 UTC] WordPress database error Table 'local.wp_ai_subscriptions' doesn't exist for query SHOW FULL COLUMNS FROM `wp_ai_subscriptions` made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ai_handle_plan_subscription
+[19-May-2026 14:49:31 UTC] WordPress database error Table 'local.wp_ai_subscriptions' doesn't exist for query SELECT * FROM wp_ai_subscriptions WHERE user_id = 9 made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ai_handle_plan_subscription
+[19-May-2026 14:49:31 UTC] WordPress database error Table 'local.wp_ai_subscriptions' doesn't exist for query SHOW FULL COLUMNS FROM `wp_ai_subscriptions` made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, ai_handle_plan_subscription
+[20-May-2026 05:02:10 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:02:12 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:03:01 UTC] PHP Warning:  Attempt to read property "id" on null in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 647
+[20-May-2026 05:03:01 UTC] PHP Warning:  Attempt to read property "question" on null in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 677
+[20-May-2026 05:18:31 UTC] PHP Parse error:  Unclosed '{' on line 491 in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 729
+[20-May-2026 05:18:31 UTC] PHP Parse error:  Unclosed '{' on line 491 in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\james-chatbot\james-chatbot.php on line 729
+[20-May-2026 05:19:28 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:19:30 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:20:52 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:20:53 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 9ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:21:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 1ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:29:38 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:38:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:38:51 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:53:42 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:53:43 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 05:57:26 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 06:01:28 UTC] WordPress database error Duplicate entry '10' for key 'wp_chatbot_james.unique_user' for query INSERT INTO `wp_chatbot_james` (`user_id`, `domain`) VALUES (10, 'Neural Networks') made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, jcb_handle_domain_submission
+[20-May-2026 06:02:45 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 06:16:17 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 06:16:20 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 06:33:40 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 06:33:42 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 06:42:32 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 06:42:39 UTC] WordPress database error Duplicate entry '10' for key 'wp_chatbot_james.unique_user' for query INSERT INTO `wp_chatbot_james` (`user_id`, `domain`) VALUES (10, 'SVM') made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, jcb_handle_domain_submission
+[20-May-2026 07:01:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 07:01:36 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 10ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 07:01:43 UTC] WordPress database error Duplicate entry '10' for key 'wp_chatbot_james.unique_user' for query INSERT INTO `wp_chatbot_james` (`user_id`, `domain`) VALUES (10, 'XAI') made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, jcb_handle_domain_submission
+[20-May-2026 07:05:04 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 11ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 07:08:49 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'BY id DESC LIMIT 1' at line 1 for query SELECT *FROM wp_chatbot_james WHERE user_id = 11ORDER BY id DESC LIMIT 1 made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('wp-includes/template-canvas.php'), get_the_block_template_html, do_blocks, render_block, WP_Block->render, WP_Block->render, WP_Block->render, render_block_core_post_content, apply_filters('the_content'), WP_Hook->apply_filters, do_shortcode, preg_replace_callback, do_shortcode_tag, jcb_result_shortcode
+[20-May-2026 07:18:48 UTC] PHP Warning:  require_once(C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin/chatbot-form.php): Failed to open stream: No such file or directory in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php on line 68
+[20-May-2026 07:18:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin/chatbot-form.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php:68
+Stack trace:
+#0 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\plugin.php(2400): include_once()
+#1 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('quiz-upload-plu...')
+#2 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\plugins.php(60): activate_plugin('quiz-upload-plu...', 'http://wordp-ev...', false)
+#3 {main}
+  thrown in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php on line 68
+[20-May-2026 07:21:19 UTC] PHP Warning:  require_once(C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin/chatbot-form.php): Failed to open stream: No such file or directory in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php on line 68
+[20-May-2026 07:21:19 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin/chatbot-form.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php:68
+Stack trace:
+#0 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\plugin.php(2400): include_once()
+#1 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('quiz-upload-plu...')
+#2 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\plugins.php(60): activate_plugin('quiz-upload-plu...', 'http://wordp-ev...', false)
+#3 {main}
+  thrown in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php on line 68
+[20-May-2026 07:21:27 UTC] PHP Warning:  require_once(C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin/chatbot-form.php): Failed to open stream: No such file or directory in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php on line 68
+[20-May-2026 07:21:27 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin/chatbot-form.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php:68
+Stack trace:
+#0 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\plugin.php(2400): include_once()
+#1 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\plugin.php(673): plugin_sandbox_scrape('quiz-upload-plu...')
+#2 C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\plugins.php(60): activate_plugin('quiz-upload-plu...', 'http://wordp-ev...', false)
+#3 {main}
+  thrown in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-content\plugins\quiz-upload-plugin\temp.php on line 68
+[20-May-2026 07:33:47 UTC] WordPress database error Duplicate entry '11' for key 'wp_chatbot_james.unique_user' for query INSERT INTO `wp_chatbot_james` (`user_id`, `domain`) VALUES (11, 'Vector DB') made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, jcb_handle_domain_submission
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_type" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3072
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3078
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "index_columns" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3081
+[21-May-2026 05:20:55 UTC] PHP Warning:  Undefined array key "column_name" in C:\Users\Admin\Local Sites\wordp-evalai\app\public\wp-admin\includes\upgrade.php on line 3110
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 05:20:55 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_ai_quizzes ADD  `` (``) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('plugins_loaded'), WP_Hook->do_action, WP_Hook->apply_filters, ai_update_plugin_db, ai_update_quiz_table, dbDelta
+[21-May-2026 12:33:50 UTC] WordPress database error Out of memory; check if mysqld or some other process uses all available memory; if not, you may have to use 'ulimit' to allow mysqld to use more memory or you can add more swap space for query SELECT DISTINCT t.term_id, tr.object_id
+			 FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id
+			 WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (1)
+			 ORDER BY t.name ASC
+			  made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_object_term_cache, wp_get_object_terms, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
+[22-May-2026 10:41:20 UTC] WordPress database error Out of memory; check if mysqld or some other process uses all available memory; if not, you may have to use 'ulimit' to allow mysqld to use more memory or you can add more swap space for query SELECT DISTINCT t.term_id, tr.object_id
+			 FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id
+			 WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (1)
+			 ORDER BY t.name ASC
+			  made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_object_term_cache, wp_get_object_terms, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
